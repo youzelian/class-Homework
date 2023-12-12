@@ -26,7 +26,7 @@ var webList = {
         { sn: "20213593", web: "https://xujiangwe.github.io" },
         { sn: "20213594", web: "https://zhang-xian-sheng1.github.io/" },
         { sn: "20213596", web: "https://github.com/z-dn/z-dn.github.io" },
-        { sn: "20213597", web: "https://rabaesther.github.io" },
+        { sn: "20213597", web: "https://rabaesther.github.io/RabaEsther/" },
         { sn: "20213598", web: "https://github.com/zenglingfengzeta/zenglingfengzeta.github.io" },
         { sn: "20213599", web: "https://Guo-lijing.github.io" },
         { sn: "20213600", web: "https://zhong-wenyu.github.io/index.html" },
